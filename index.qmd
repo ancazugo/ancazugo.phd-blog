@@ -1,0 +1,20 @@
+---
+title: "Andrés Zúñiga-González, PhD Student"
+subtitle: "AI for Environmental Risk at University of Cambridge"
+image: assets/images/home.jpg
+comments: false
+---
+
+I am a Colombian biologist and environmental data scientist pursuing a PhD in Artificial Intelligence for Environmental Risk at the University of Cambridge. My research focuses on assessing the impacts of urban vegetation on healthy cities, integrating high-resolution satellite data, machine learning, and environmental modeling to improve urban tree management and promote green equity.
+
+## Recent News
+
+- **February 2025** Presented my work coupling ground-based sensors with remote sensing products at BIOSPACE25 in ESA HQ, Frascati, Italy
+- **April 2024** Presented my PhD work on Green Urban Equity in the UK at EGU24 in Vienna
+- **October 2023** Started the PhD part of the [AI4ER program](https://ai4er-cdt.esc.cam.ac.uk/) at the University of Cambridge
+- **July 2023** Completed MRes dissertation on mapping individual trees in Cambridge using AI
+
+::: {.callout-note}
+## About Me
+[Learn more about my background and research](/about.qmd)
+:::

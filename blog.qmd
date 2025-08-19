@@ -1,0 +1,16 @@
+---
+title: "Blog"
+comments: false
+listing:
+  contents: posts
+  sort: "date desc"
+  type: "grid"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  page-size: 6
+  feed:
+    categories: [phd]
+---
+
+Welcome to my blog! Here you'll find my weekly PhD notes andposts about my research, data visualizations, and thoughts on environmental data science and AI. From interactive maps to statistical analyses, I share insights from my work in urban ecology and environmental risk assessment.
