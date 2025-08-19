@@ -1,20 +1,32 @@
 ---
-title: "Andrés Zúñiga-González, PhD Student"
-subtitle: "AI for Environmental Risk at University of Cambridge"
+title: "Andrés C. Zúñiga-González"
+subtitle: "PhD Student @ University of Cambridge"
 image: assets/images/home.jpg
 comments: false
+
+about:
+    template: trestles 
+    image-shape: round
+    links: 
+      - icon: github
+        href: https://github.com/ancazugo
+      # - text: "{{< iconify fa7-brands bluesky >}}"
+      #   href: https://bsky.app/profile/ancazugo.bsky.social
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ancazugo/
+      - text: "{{< iconify academicons orcid-square >}}"
+        href: https://orcid.org/0000-0003-3494-1135
+      - text: "{{< iconify academicons researchgate-square >}}"
+        href: https://www.researchgate.net/profile/Andres-Zuniga-Gonzalez
+      - text: "{{< iconify academicons google-scholar-square >}}"
+        href: https://scholar.google.com/citations?hl=en&user=9guCE0wAAAAJ
+      - text: "{{< iconify majesticons mail-line >}}"
+        href: mailto:ancazugo@gmail.com
 ---
+
+::: {#hero-heading}
 
 I am a Colombian biologist and environmental data scientist pursuing a PhD in Artificial Intelligence for Environmental Risk at the University of Cambridge. My research focuses on assessing the impacts of urban vegetation on healthy cities, integrating high-resolution satellite data, machine learning, and environmental modeling to improve urban tree management and promote green equity.
 
-## Recent News
-
-- **February 2025** Presented my work coupling ground-based sensors with remote sensing products at BIOSPACE25 in ESA HQ, Frascati, Italy
-- **April 2024** Presented my PhD work on Green Urban Equity in the UK at EGU24 in Vienna
-- **October 2023** Started the PhD part of the [AI4ER program](https://ai4er-cdt.esc.cam.ac.uk/) at the University of Cambridge
-- **July 2023** Completed MRes dissertation on mapping individual trees in Cambridge using AI
-
-::: {.callout-note}
-## About Me
-[Learn more about my background and research](/about.qmd)
+[Learn more about me &rarr;](/about){.about-links .subtitle}
 :::

@@ -10,36 +10,31 @@ format:
 comments: false
 ---
 
-I am a Colombian biologist and environmental data scientist with a passion for leveraging computational tools to address global challenges such as climate change, biodiversity loss, and urban sustainability. Currently, I am pursuing a PhD in Artificial Intelligence for Environmental Risk at the University of Cambridge, where my research focuses on assessing the impacts of urban vegetation on healthy cities.
+I am a Colombian biologist and environmental data scientist with a passion for leveraging computational tools to address global challenges such as climate change, biodiversity loss, and urban sustainability. Currently, I am pursuing a PhD in the [Sustainable Design Group (**SDG**)](https://www.sustainabledesign.arct.cam.ac.uk/) at the University of Cambridge, where my research focuses on assessing the impacts of urban vegetation on sustainability in cities under.
 
 ## Research
 
-My work integrates high-resolution satellite data, machine learning, and environmental modeling to improve urban tree management and promote green equity. I specialize in:
-
-- **Urban Ecology**: Mapping and analyzing urban vegetation patterns
-- **Remote Sensing**: Processing satellite and aerial imagery for environmental applications
-- **Machine Learning**: Developing AI models for environmental risk assessment
-- **Data Science**: Building tools and pipelines for environmental data analysis
+My curretn research integrates high-resolution LiDAR and aerial images of England to map trees in cities and, alongisde other geospatial datasets, assess the impact of urban vegetation in cities and its relationship to socio-economic indicators. I make heavy use of R, Python, Spark, Google Earth Engine, as well as specific tools for statistical modeling, machine learning, and data visualization.
 
 ## Background
 
-I hold a Master's in Environmental Data Science from the University of Cambridge and a Master's in Biological Sciences from Universidad de los Andes, where I specialized in paleoecology and ancient DNA. My research has spanned diverse areas, from characterizing methane production in Colombian páramo peatbogs to analyzing the effects of volcanic eruptions on ancient human settlements.
+I hold a Master's in Environmental Data Science from the University of Cambridge and a Master's in Biological Sciences from Universidad de los Andes, where I specialized in paleoecology and ancient DNA. My research has spanned diverse areas, from characterising methane production in Colombian páramo peatbogs to analyzing the effects of volcanic eruptions on ancient human settlements.
+
+In addition, I worked for a real estae company in Colombian extracting data from different market places, developing machine learning models for client classification and price prediction for several cities in Colombia.
 
 ## Technical Skills
 
 I am proficient in **R**, **Python**, **Java**, **JavaScript**, **SQL**, and **LaTeX**, with extensive experience in:
 
 - **Geospatial Tools**: ArcGIS, QGIS, Google Earth Engine
-- **Cloud Computing**: Docker, AWS
 - **Data Visualization**: D3.js, Observable, R Shiny
-- **Machine Learning**: TensorFlow, scikit-learn, caret
+- **Data Engineering**: Spark, Docker, AWS
+- **Machine Learning**: TensorFlow, Pytorch,scikit-learn
 
 ## Teaching & Mentoring
 
 Beyond research, I am passionate about teaching and mentoring. I have designed and delivered courses on topics ranging from biostatistics and programming to machine learning and sustainability. I believe in the power of education to drive innovation and empower the next generation of scientists and technologists.
 
-## Personal Interests
+## Contact
 
-Aside from research and data science, I enjoy drawing, learning new languages, practicing and watching football, tennis and basketball, and playing (learning) piano.
-
-My ultimate goal is to harness the power of artificial intelligence and data science to create sustainable solutions for our planet's most pressing environmental challenges. I am always looking for new opportunities to collaborate and learn from others, so please feel free to reach out if you would like to connect or check my academic CV ([🇬🇧](assets/documents/Andres_Zuñiga_Gonzalez_CV_en.pdf), [🇪🇸](assets/documents/Andres_Zuñiga_Gonzalez_CV_es.pdf)) and professional résumé ([🇬🇧](assets/documents/Andres_Zuñiga_Gonzalez_resume_en.pdf)).
+I am always looking for new opportunities to collaborate and learn from others, so please feel free to reach out if you would like to connect or check my academic CV ([🇬🇧](assets/documents/Andres_Zuñiga_Gonzalez_CV_en.pdf), [🇪🇸](assets/documents/Andres_Zuñiga_Gonzalez_CV_es.pdf)) and professional résumé ([🇬🇧](assets/documents/Andres_Zuñiga_Gonzalez_resume_en.pdf)).

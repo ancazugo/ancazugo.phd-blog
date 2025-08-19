@@ -29,6 +29,9 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
         with:
           version: pre-release
+      - name: Get last commit date
+        run: echo "LAST_UPDATED=$(git log -1 --format=%cd --date=format:'%B %d, %Y')" >> $GITHUB_ENV
+      
 
       - name: "Build"
         shell: bash
