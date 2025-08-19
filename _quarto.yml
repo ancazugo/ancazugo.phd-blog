@@ -4,7 +4,7 @@ project:
 website:
   title: "Andrés Zúñiga-González"
   description: "PhD Student in AI for Environmental Risk at University of Cambridge"
-  site-url: https://ancazugo.github.io
+  site-url: https://ancazugo.github.io/temp
   back-to-top-navigation: true
   open-graph: true
   google-analytics: G-EZYSPQ2878
@@ -18,10 +18,8 @@ website:
         text: About
       - href: blog.qmd
         text: Blog
-      - href: consulting.qmd
-        text: Consulting
-      - href: contact.qmd
-        text: Contact
+      - href: services.qmd
+        text: Services
   page-footer: 
     center: 
       - icon: github
