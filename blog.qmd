@@ -8,9 +8,11 @@ listing:
   categories: true
   sort-ui: true
   filter-ui: true
-  page-size: 6
+  page-size: 4
+  grid-columns: 2
+  fields: [image, date, title, author, reading-time]
   feed:
     categories: [phd]
 ---
 
-Welcome to my blog! Here you'll find my weekly PhD notes andposts about my research, data visualizations, and thoughts on environmental data science and AI. From interactive maps to statistical analyses, I share insights from my work in urban ecology and environmental risk assessment.
+Welcome to my blog! Here you'll find my weekly PhD notes and posts about my research, papers and books I've read or general discussions. Feel free to read and leave comments.

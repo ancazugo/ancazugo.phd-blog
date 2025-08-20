@@ -18,8 +18,8 @@ website:
         text: About
       - href: blog.qmd
         text: Blog
-      - href: services.qmd
-        text: Services
+      # - href: services.qmd
+      #   text: Services
   page-footer: 
     center: 
       - icon: github
@@ -36,7 +36,7 @@ website:
         href: https://scholar.google.com/citations?hl=en&user=9guCE0wAAAAJ
       - text: "{{< iconify majesticons rss >}}"
         href: index.xml
-      - text: "{{< iconify majesticons mail-line >}}"
+      - text: "{{< iconify fa7-solid envelope >}}"
         href: mailto:ancazugo@gmail.com
     left: >-
      &#169; Andrés C. Zúñiga-González &#8729; made with {{< quarto >}}
